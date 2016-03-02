@@ -41,46 +41,46 @@ The other available mailing lists can be found at :ref:`QGIS-mailinglists`.
 GUI Translation
 ---------------
 
-The QGIS interface is natively programmed in English. However, at this moment 
-over fourthy other languages are already available.
+The QGIS interface is natively programmed in English though it is currently
+available in over forty languages.
 
 To start QGIS with the appropriate localization, run qgis with the option
 ``--lang=<language code>`` or change localization in QGIS under
 :menuselection:`Settings -> Options -> Locale`.
 
-If you want to find out if your language is already present in QGIS Applications
-or who is currently working on your language you have to take a look in the
-:menuselection:`Help -> About -> Translators` Box in the QGIS Desktop Application.
+If you would like to check whether or not your desired language is included
+with QGIS Applications, or who is currently working on your language, please go
+to :menuselection:`Help -> About -> Translators` Box in the QGIS Desktop 
+Application.
 
-You will also find the progress of the translation there (but remember in
-every "stable" version it will always stay at the same level).
-For finding the current percentage of translation you will either have to
-install the nightly build of QGIS or checkout the source code of QGIS.
+There you can also check on the progress of the translation.  But remember, with
+each "stable" version, the level of progress represents a snapshot of the translation
+work at the time of version release.  To find the current percentage of translation, 
+you can either to install the nightly build of QGIS or checkout the source code of QGIS.
  
-The entire interface contains over 
-ten thousand pieces of text and a complete translation will take days if not
-weeks to be finished. Besides that, the rapid development of the application
-continuously causes new and edited texts to be translated. A huge effort and
-your help will be appreciated!
+Please keep in mind the entire interface contains more than ten thousand pieces of text, 
+so a complete translation requires days if not weeks of effort. Additionally, the rapid
+development cycle of the application continuously produces new and edited texts to
+be translated—a huge effort and your help would be greatly appreciated!
 
 .. _becoming-translator:
 
 Becoming a translator
 ---------------------
 
-The QGIS project is always looking for people who are willing to invest some
-more time translating QGIS into a foreign language - even perhaps to
+The QGIS project is always looking for people who are willing to invest their
+time translating QGIS into a foreign language—even perhaps to
 coordinate the translation effort.
 
 We are trying to improve our project management process and spread the load
-more evenly between people who each have a specific area of responsibility,
-so any contribution you have to make will be greatly appreciated.
+more evenly among people, with each person having a specific area of 
+responsibility.  So, any contribution you have to make will be greatly
+appreciated.
 
-If you would like to nominate yourself as a coordinator for a new language
-please go ahead.
-If more than one person nominate themselves as coordinator for the same
-language, please contact each other and resolve how you will manage your
-efforts.
+If you would like to nominate yourself as a coordinator for a new language,
+please feel free to do so.  In the event more than one person nominates
+themselves as coordinator for a particular language, we ask you to please
+contact one another and resolve how you will manage your efforts.
 
 Please contact the :ref:`Translation team leader <gui-translation>` or 
 :ref:`Community Assistant <community-resources>` to see your name entered in 
@@ -91,7 +91,7 @@ Transifex
 
 The web-based translating platform Transifex is used for all QGIS
 translations; the desktop application itself (or GUI), the documentation and
-the web site. So the first thing you need is an account to login and get
+the web site. So, you first need to create an account in order to login and get
 started.
 
 Join a Project
@@ -108,11 +108,11 @@ Join a Project
     (QGIS Desktop, QGIS Browser and QGIS Server),
   * **QGIS Docs and Website** to translate both QGIS web site and current documentation.
 
-- Choose in which part of the project you would like to participate
-- You can be part of all projects and help everywhere too
+- Choose the part of the project in which you would like to participate
+- You can be part of all projects and help everywhere, too
 - If the language of your choice is listed, click it and request to join the team.
-- If your language is not listed yet, click “Request language” and choose your
-  language. Keep in mind that translating the entire Desktop Application will take
+- If your language is not yet listed, please click “Request language” and choose your
+  language. Keep in mind that translating the entire Desktop Application will require
   days of work, if not weeks!
 
 Now you will need to wait for the language coordinator or the project maintainers 
@@ -137,9 +137,9 @@ you've chosen. Simply click on your language, select the chapter you want to
 translate and click on Translate. Easy, right?
 
 Note that website and documentation projects also offer a more direct way to 
-add or fix translations. Indeed, While reading the current documentation or 
-navigating on the web site, if you find a wrong or missing translation, 
-you can directly fix it, using a ``Fix me`` link, available at the bottom of any page.
+add or fix translations. Indeed, if while reading the current documentation or 
+navigating on the web site, you find a wrong or missing translation, 
+you can directly fix it by using a ``Fix me`` link found at the bottom of any page.
 This leads you directly to the right chapter in Transifex.
   
   
